@@ -1,1 +1,3 @@
 # Carlos-Challenge-19-Text-Editor
+
+The purpose of this code is to create a web-based text editor utilizing PWA and other front-end and back-end techniques learned over the course. There appears to be some trouble running the npm i command in the temrinal as I keep having mutliple errors generating. I'll look into this in the near future and find out where the code keeps crashing. Due to this, it'll be some time before  can get this onto Heroku
